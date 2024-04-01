@@ -25,25 +25,30 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css",
               "src/assets/css/style.css",
               "src/assets/css/ckeditor.css",
               "src/assets/css/feather.css",
-              "src/assets/css/style.css"
+              "src/assets/css/style.css",
+              "node_modules/@fortawesome/fontawesome-free/css/all.min.css"
             ],
             "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/@popperjs/core/dist/umd/popper.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "src/assets/js/jquery-3.6.0.min.js",
+              "src/assets/js/jquery.maskedinput.min.js",
+              "src/assets/js/jquery-ui.min.js",
+              "src/assets/js/mask.js",
+              "src/assets/js/moment.min.js",
               "src/assets/js/bootstrap-datetimepicker.min.js",
-              "src/assets/js/calander.js",
               "src/assets/js/circle-progress.min.js",
               "src/assets/js/ckeditor.js",
               "src/assets/js/feather.min.js",
               "src/assets/js/form-validation.js",
-              "src/assets/js/jquery-3.6.0.min.js",
-              "src/assets/js/jquery-ui.min.js",
-              "src/assets/js/jquery.maskedinput.min.js",
-              "src/assets/js/mask.js",
-              "src/assets/js/moment.min.js",
-              "src/assets/js/script.js"
+              "src/assets/js/script.js"         
+                       
             ]
           },
           "configurations": {
